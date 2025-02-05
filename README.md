@@ -35,4 +35,4 @@ $ sudo systemctl restart apache2
 # Renew or updates
 $ sudo certbot certonly --webroot -w /var/www/html -d neuro.dob.jp
 
-and pick #2 for renew
+and select #2 for renew
