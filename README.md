@@ -34,5 +34,9 @@ $ sudo systemctl restart apache2
 </pre>
 # Renew or updates
 $ sudo certbot certonly --webroot -w /var/www/html -d neuro.dob.jp
+<pre>
+1: Keep the existing certificate for now
+2: Renew & replace the certificate
 
 and select #2 for renew
+</pre>
